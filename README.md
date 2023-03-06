@@ -16,7 +16,7 @@ As the winner of the Citadel Securities Quantitative Finance Contest, I leverage
 6. Visualised all the quoted trades completed for the tickers as well as the Bid, Offer and Reference Price against Date, providing a comprehensive view of the trading process that showcased exceptional technical skills in data visualisation and analysis.
 
 
-## Results visualisation
+## Results Visualisation
 Note: 
 - The green line represents the reference price
 - The orange line represents the offer
