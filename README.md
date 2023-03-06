@@ -1,5 +1,8 @@
 # Citadel Securities Quantitative Finance Competition
 
+[Link to the implementation on GitHub](https://github.com/YLiu95/Citadel_Securities_Quantitative_Finance_Competition/blob/main/Citadel_Securities_Quant_Trading_Competition.ipynb)
+
+[Link to the implementation on Google Colab](https://colab.research.google.com/github/YLiu95/Citadel_Securities_Quantitative_Finance_Competition/blob/main/Citadel_Securities_Quant_Trading_Competition.ipynb)
 
 ## Achievement Highlights
 
